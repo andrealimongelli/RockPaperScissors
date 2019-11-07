@@ -1,0 +1,90 @@
+body {
+    font-family: 'ink free', cursive;
+   
+}
+
+h2 {
+  font-family: 'ink free', cursive;
+  text-align: center;
+}
+
+#hand {
+    text-align: center;
+}
+
+
+div.a {
+    color: blue;
+    text-align: center;
+    font-family: 'ink free', sans-serif;
+    
+}
+
+
+
+
+
+
+
+.fa-hand-paper-o {
+  
+    font-size: 100px !important;
+    color: lightblue;
+    text-shadow: 2px 2px 4px #000000 !important;
+    text-align: center !important;
+    margin: 0 0 3em !important;
+    
+}
+.fa-hand-paper-o:hover {
+  color:green;
+}
+.fa-hand-paper-o:active {
+    color:blue;
+    font-size: 200px !important;
+
+}
+.fa-hand-rock-o {
+    font-size: 100px !important;
+    color: lightblue;
+    text-shadow: 2px 2px 4px #000000 !important;
+    align-items: center !important;
+    margin: 0 0 3em;
+    
+}
+.fa-hand-rock-o:hover {
+  color:green;
+}
+.fa-hand-rock-o:active {
+    color:blue;
+    font-size: 200px !important;
+}
+.fa-hand-scissors-o {
+    font-size: 100px !important;
+    color: lightblue;
+    text-shadow: 2px 2px 4px #000000;
+    align-items: center !important;
+    margin: 0 0 3em;
+    
+}
+.fa-hand-scissors-o:hover {
+  color:green;
+}
+.fa-hand-scissors-o:active {
+  color:blue;
+  font-size: 200px !important;
+}
+
+
+
+
+.disabled {
+  pointer-events: none;
+}
+
+.selected {
+  color: blue !important;
+  
+}
+
+
+
